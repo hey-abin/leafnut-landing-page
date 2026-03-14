@@ -6,34 +6,34 @@
 
 @layer base {
   :root {
-    /* Leafnut Brand Palette */
-    --background: 39 47% 93%;          /* #F6F1E7 Coconut Cream */
-    --foreground: 27 45% 37%;          /* #8B5E34 Coconut Brown */
+    /* Leafnut Brand Palette (Vibrant) */
+    --background: 40 60% 98%;          /* Brighter Coconut Cream */
+    --foreground: 24 70% 25%;          /* Deeper, more saturated Brown */
 
-    --card: 39 47% 93%;
-    --card-foreground: 27 45% 37%;
+    --card: 40 60% 98%;
+    --card-foreground: 24 70% 25%;
 
-    --popover: 39 47% 93%;
-    --popover-foreground: 27 45% 37%;
+    --popover: 40 60% 98%;
+    --popover-foreground: 24 70% 25%;
 
-    --primary: 152 40% 31%;            /* #2F6F4E Palm Leaf Green */
-    --primary-foreground: 39 47% 93%;
+    --primary: 150 80% 32%;            /* Vivid Palm Leaf Green */
+    --primary-foreground: 40 60% 98%;
 
-    --secondary: 39 40% 88%;
-    --secondary-foreground: 27 45% 37%;
+    --secondary: 40 70% 90%;
+    --secondary-foreground: 24 70% 25%;
 
-    --muted: 39 30% 90%;
-    --muted-foreground: 27 25% 52%;
+    --muted: 40 40% 94%;
+    --muted-foreground: 24 30% 45%;
 
-    --accent: 37 58% 56%;              /* #D4A94F Golden Oil */
-    --accent-foreground: 39 47% 93%;
+    --accent: 38 95% 52%;              /* Brilliant Golden Oil */
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 39 25% 82%;
-    --input: 39 25% 82%;
-    --ring: 152 40% 31%;
+    --border: 40 50% 85%;
+    --input: 40 50% 85%;
+    --ring: 150 80% 32%;
 
     --radius: 0.5rem;
 
